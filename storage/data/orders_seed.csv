@@ -1,0 +1,17 @@
+﻿order_id,customer_id,product,status,order_date,estimated_delivery
+ORD-101,USER-109,Baby,In Transit - Arriving Tomorrow,2018-04-11,2018-05-14
+ORD-102,USER-109,Garden Tools,Processing - Ready to Ship,2017-01-31,2017-03-17
+ORD-103,USER-109,Watches Gifts,Delivered - Left at Front Porch,2018-07-24,2018-08-16
+ORD-104,USER-109,Health Beauty,Delivered - Left at Front Porch,2018-03-01,2018-03-23
+ORD-105,USER-109,Perfumery,Canceled - Item Unavailable,2016-10-07,2016-12-07
+ORD-106,USER-109,Health Beauty,Delivered - Left at Front Porch,2017-05-22,2017-06-28
+ORD-107,USER-109,Toys,Delivered - Left at Front Porch,2018-02-26,2018-03-12
+ORD-108,USER-109,Health Beauty,In Transit - Arriving Tomorrow,2017-10-16,2017-10-26
+ORD-109,USER-109,Baby,Canceled - Refund Issued,2018-07-21,2018-08-09
+ORD-110,USER-109,Watches Gifts,Delivered - Left at Front Porch,2018-01-18,2018-02-20
+ORD-111,USER-109,Toys,Canceled - Refund Issued,2017-09-08,2017-09-20
+ORD-112,USER-109,Garden Tools,Processing - Ready to Ship,2018-01-13,2018-02-08
+ORD-113,USER-204,Bed Bath Table,Processing - Ready to Ship,2018-03-10,2018-03-28
+ORD-114,USER-317,Watches Gifts,Delivered - Left at Front Porch,2017-10-13,2017-11-13
+ORD-115,USER-204,Bed Bath Table,In Transit - Arriving Tomorrow,2018-04-05,2018-04-27
+ORD-116,USER-317,Construction Tools Lights,Delivered - Left at Front Porch,2018-04-17,2018-05-15
